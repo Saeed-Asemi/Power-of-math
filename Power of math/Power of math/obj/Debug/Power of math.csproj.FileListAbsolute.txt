@@ -1,0 +1,7 @@
+D:\Uni\Programming\C#\Power of math\Power of math\bin\Debug\Power of math.exe.config
+D:\Uni\Programming\C#\Power of math\Power of math\bin\Debug\Power of math.exe
+D:\Uni\Programming\C#\Power of math\Power of math\bin\Debug\Power of math.pdb
+D:\Uni\Programming\C#\Power of math\Power of math\obj\Debug\Power of math.csprojAssemblyReference.cache
+D:\Uni\Programming\C#\Power of math\Power of math\obj\Debug\Power of math.csproj.CoreCompileInputs.cache
+D:\Uni\Programming\C#\Power of math\Power of math\obj\Debug\Power of math.exe
+D:\Uni\Programming\C#\Power of math\Power of math\obj\Debug\Power of math.pdb
